@@ -21,8 +21,8 @@ This script automates interactions with the Tabi bot, including logging in, clai
     npm install axios fs chalk readline gradient-string https-proxy-agent winston figlet readline-sync
     ```
 
-3. Create a `rawdata.txt` file in the project directory. This file should contain the NEAR account credentials in the following format:
-
+3. Create a `rawdata.txt` file in the project directory:
+![Tabi Bot Raw Data](https://github.com/Winnode/Tabi-zoo/blob/main/rawdata.png)
     ```
 	account1_rawdata
 	account2_rawdata
