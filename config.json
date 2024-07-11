@@ -1,0 +1,5 @@
+{
+  "autoUpgrade": false,
+  "useProxy": false,
+  "restartIntervalHours": 3
+}
