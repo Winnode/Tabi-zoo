@@ -24,9 +24,9 @@ This script automates interactions with the Tabi bot, including logging in, clai
 3. Create a `rawdata.txt` file in the project directory:
 ![Tabi Bot Raw Data](https://github.com/Winnode/Tabi-zoo/blob/main/rawdata.png)
     ```
-	account1_rawdata
-	account2_rawdata
-	account3_rawdata
+	rawdata1
+	rawdata2
+	rawdata3
     ```
 
 4. Configuration
@@ -53,5 +53,16 @@ node run.js
 
 ```sh
 Enter password: ********
+```
+## Create Telegram bot api and chat id 
+
+Telegram bot api
+```
+https://t.me/BotFather
+```
+
+chat id 
+```
+https://t.me/GetMyChatID_Bot
 ```
 
