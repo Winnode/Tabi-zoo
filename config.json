@@ -1,5 +1,10 @@
 {
-  "autoUpgrade": false,
-  "useProxy": false,
-  "restartIntervalHours": 3
+    "autoUpgrade": false,
+    "useProxy": false,
+    "restartIntervalHours": 3,
+    "telegram": {
+        "botToken": "apitelegram",
+        "chatId": "chatid",
+        "enableNotifications": false
+    }
 }
